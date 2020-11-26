@@ -1,4 +1,4 @@
-nclude"rank.h"
+#include"rank.h"
 #define N 20
 
 int main() {
