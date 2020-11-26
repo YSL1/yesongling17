@@ -1,6 +1,6 @@
 #secend
-test:paixu.c bianyi.c
-	gcc paixu.c tiaoshi.c -o test
+test:rank.c testRank.c
+	gcc rank.c testRank.c -o test
 	
 	rm test
 
